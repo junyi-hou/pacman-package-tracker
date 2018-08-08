@@ -6,6 +6,10 @@ This project offers:
 1. a python script that automatically list all explicitly installed packages outside of base and base-devel group
 2. a pacman hook that runs after installation/removal of packages
 
+# Dependency
+
+python3.6
+
 # Usage
 
 1. place the backup-pacman.py file in /usr/bin/
